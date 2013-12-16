@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Nancy.ViewEngines.Razor
+namespace Nancy.ViewEngines.Razor.Validation
 {
     public static class HtmlHelperExtensions
     {
